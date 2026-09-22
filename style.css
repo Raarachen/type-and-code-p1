@@ -1,0 +1,50 @@
+@font-face {
+	font-family: "Pixel";
+	src: url("Pixel-Regular.otf") format("opentype");
+}
+
+body {
+	background-color: yellow;
+	font-family: "Pixel";
+	text-transform: uppercase;
+}
+
+.pixie {
+	font-family: "Pixel";
+}
+
+p {
+	font-family: "Pixel";
+	font-size: 5vw;
+	letter-spacing: -.25em;
+	line-height: .7em;
+	word-spacing: 4em;
+}
+
+
+
+h1 {
+		color:brown;
+		font-size: 40pt;
+		font-weight: bold;
+		line-height: 150%;
+		font-style: italic;
+		text-decoration: underline;
+		letter-spacing: 1em;
+		transform: rotate(-30deg);
+		background: #00ff00;background: #2A7B9B;
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+		text-shadow: 100px 10px 1px rgba(0,0,0,.5);
+		box-shadow: 10px 10px 5px black;
+		text-transform: uppercase;
+		text-align: right;
+	}
+
+p {
+	font-family: sans-serif;
+}
+
+	.donkey {
+		color: white;
+		background: blue;
+	}
